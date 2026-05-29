@@ -1,0 +1,6 @@
+{
+  "name": "Dactor",
+  "description": "Your premium AI Health companion, vitals tracker, and clinical coordinator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
